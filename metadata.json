@@ -1,0 +1,5 @@
+{
+  "name": "AI Timetable Scheduler",
+  "description": "A smart weekly timetable scheduler that allows users to manually add, edit, and delete events. It also features an AI assistant powered by the Gemini API to automatically generate a schedule based on a list of tasks.",
+  "requestFramePermissions": []
+}
